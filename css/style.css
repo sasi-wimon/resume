@@ -13,27 +13,31 @@ background-color: #4CAF50;
 }
 
 .bg2{
- background-image: url("../images/20800062.jpg");
+ background-image: url("../images/13787.jpg");
 }
 
 .body {
-  background-color: #eee1b1  ;
+  background-color:  #EDDDA4;
 }
 .bg-main{
-  background-color: #E0D4AF;
+  background-color:  #EDDDA4;
 }
+
+
+
+
 
 .padding1{
   padding-top: 30px;
-  padding-right: 40px;
+  padding-right: 50px;
   padding-bottom: 30px;
-  padding-left: 40px;
+  padding-left: 50px;
 }
 
 .padding2{
   padding-top: 20px;
-  padding-right: 40px;
-  padding-left: 40px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 
@@ -42,11 +46,24 @@ background-color: #4CAF50;
    padding-top: 30px;
 }
 
-h4{ 
-  font-family: 'Noto Sans Thai', sans-serif;
-color: #3d2814;
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
-p{font-family: 'Sarabun', sans-serif;}
+h4{ 
+  font-family: 'Noto Sans Thai', sans-serif;
+color: #152238;
+}
 
-h2{font-family: 'Prompt', sans-serif;}
+p{font-family: 'Sarabun', sans-serif;
+color: #333333;
+}
+
+h2{font-family: 'Prompt', sans-serif;
+}
+
+h6{font-family: 'Prompt', sans-serif;
+}
+

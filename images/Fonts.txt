@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Boogaloo
+Author: John Vargas Beltrán
+Url: https://fonts.google.com/specimen/Boogaloo
+
+Font: Patrick Hand
+Author: Patrick Wagesreiter
+Url: https://fonts.google.com/specimen/Patrick+Hand
